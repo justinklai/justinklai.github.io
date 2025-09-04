@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/detective_logo.jpg
+image: img/Detective_logo.jpg
 title: "Detective"
 date: 2024
 published: true
