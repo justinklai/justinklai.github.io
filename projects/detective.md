@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/Detective_logo.jpg
+image: img/Detective_logo.png
 title: "Detective"
-date: 2024
+date: 2024-12-1
 published: true
 labels:
   - HTML
