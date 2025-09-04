@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Detective_logo.png
+image: img/detective/detective_square.png
 title: "Detective"
 date: 2024-12-1
 published: true
@@ -17,3 +17,7 @@ Detective was born from a shared hatred between Japanese author Ryūnosuke Akuta
 Detective also explores themes that shaped Akutagawa’s work, including the fragility of human relationships, the weight of mortality, and the societal forces that define and limit individuals. Rather than offering the truth, it presents a space for reflection, asking the player to consider not only what they believe happened, but why they chose to believe it.
 
 Building an interactive mystery requires structuring branching narratives, managing state (which choices lead to which outcomes), and ensuring consistency across multiple paths — all of which mirror concepts in software engineering like control flow, data modeling, and debugging.
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/detective/detective_front.png" class="img-thumbnail" >
+</div>
