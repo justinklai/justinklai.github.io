@@ -19,5 +19,7 @@ Detective also explores themes that shaped Akutagawa’s work, including the fra
 Building an interactive mystery requires structuring branching narratives, managing state (which choices lead to which outcomes), and ensuring consistency across multiple paths — all of which mirror concepts in software engineering like control flow, data modeling, and debugging.
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/detective/detective_front.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/detective/detective_front.png" class="img-thumbnail" >
 </div>
+
+You can play it [Here](https://justinl4.itch.io/detective)
