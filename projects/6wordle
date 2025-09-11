@@ -1,0 +1,18 @@
+---
+layout: project
+type: project
+image: img/
+title: "6 Letter Wordle"
+date: 2025-09-04
+published: true
+labels:
+  - HTML
+  - JavaScipt
+  - CSS
+summary: "A simple game based on Wordle that uses 6-Letter words instead of 5. Built with elementary JavaScript, HTML, and CSS."
+---
+
+In 10th grade, a simple word game took the world by storm, Wordle. I remembered everyone played it in class, along with other New York Times games like the mini crossword or the Connections. I even recreated it for my final computer science project in Scratch. So this time I wonder if I could create it using a more traditional programming language and build the web page myself.
+
+I learned HTML for structuring content, CSS for styling and layout, and JavaScript for interactivity and logic. I also taught myself how to render a game board and on-screen keyboard to process user input, validate guesses, and give feedback with colors. I also practiced debugging, working with arrays and strings, handling events like key presses and button clicks, and managing state within a program.
+
