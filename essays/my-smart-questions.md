@@ -17,7 +17,7 @@ Effective communication is a core skill for software engineers, particularly in 
 
 ## Example of an Effective Question
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/good_question.png">
-The [first question](https://stackoverflow.com/questions/79762594/why-excel-formula-returns-an-array) is a question titled "Why does using float instead of int give me different results when all of my inputs are integers?" This question adheres to Raymond's guidelines by clearly stating the problem, providing context, and being specific. The title sufficently describes the issue, and the question implies that the user has encountered unexpected behavior when using float instead of int. The focus on a particular aspect of programming—type conversion and its effects on computations—demonstrates a well-defined problem. 
+The first [question](https://stackoverflow.com/questions/79762594/) This question adheres to Raymond's guidelines by clearly stating the problem, providing context, and being specific. The title sufficently describes the issue, and the question implies that the user has encountered unexpected behavior when using float instead of int. The focus on a particular aspect of programming—type conversion and its effects on computations—demonstrates a well-defined problem. 
 
 ## Example of a Poorly Constructed Question and Its Consequences
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/bad_question.png">
