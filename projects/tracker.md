@@ -6,9 +6,11 @@ title: "Task Tracker"
 date: 2025-09-11
 published: true
 labels:
-  - HTML
   - JavaScipt
-  - CSS
+  - Git
+  - SQL
+  - Node.js
+  - AWS
 summary: "A full-stack web application that allows students to log study sessions, set goals, and track their productivity."
 ---
 
