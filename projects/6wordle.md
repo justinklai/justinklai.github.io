@@ -16,6 +16,8 @@ In 10th grade, a simple word game took the world by storm, Wordle. I remembered 
 
 I learned HTML for structuring content, CSS for styling and layout, and JavaScript for interactivity and logic. I also taught myself how to render a game board and on-screen keyboard to process user input, validate guesses, and give feedback with colors. I also practiced debugging, working with arrays and strings, handling events like key presses and button clicks, and managing state within a program.
 
+Building this project also helped me appreciate the importance of user experience and design. I had to think carefully about making the interface intuitive, ensuring the keyboard and board worked seamlessly, and balancing challenge with fun.
+
 <div class="text-center p-4">
   <img width="1000px" src="../img/6wordle/testgame.png" class="img-thumbnail" >
 </div>
