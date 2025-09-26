@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Nitpicky Squiggly lines"
+title: "Nitpicky Squiggly Lines"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-25
 published: true
@@ -10,7 +10,7 @@ labels:
   - Coding 
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/love-of-the-game/godot-engine.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/ESLint/IjNS3.png">
 
 ## Annoying but Eye-Opening
 After a week of using ESLint with VSCode, I’ll be honest—it felt kind of annoying at first. Every time I saved my file, I got hit with a wall of warnings and errors: “This variable isn’t used,” “Missing semicolon,” “
